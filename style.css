@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration-color: antiquewhite;
+    }
+    body{
+        background-color: black;
+    }
+    header{
+        background-image: url(https://images.unsplash.com/photo-1586899028174-e7098604235b?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+        height:870px;
+        background-size: cover;
+        background-repeat: no-repeat;
+        opacity: 0.6;
+    }
+    nav{
+        background-color: black;
+    }
+    .main1{
+        display: flex;
+        justify-content: space-around;
+    }
+    .a1{
+     font-size: 45px;
+    padding-top: 20px;
+    color: #ce1019;
+    
+    
+    }
+    button{
+        margin-top: 30px;
+        padding: 5px;
+        font-size: 15px;
+        border-radius: 5px;
+        background-color: #e50c03;
+        color: white;
+    }
+    .main2{
+        margin-top: 400px;
+        text-align: center;
+        color: white;
+    }
+    .a2{
+        font-size: 50px;
+    }
+    .a3{
+        font-size: 25px;
+    }
+    .a4{
+        font-size: 25px;
+    }
+    .main3{
+        margin-left:325px;
+    }
+    input{
+        height: 60px;
+        width: 350px;
+        border-radius: 5px;
+        background-color: rgb(212, 195, 195);
+        border: 3px solid rgb(212, 195, 195) ;
+        text-align:center;
+    }
+    
+    .a5{
+        height: 60px;
+        width: 200px;
+        border-radius: 5px;
+        background-color: #e50c03;
+        border: 10px solid #e50c03;
+        font-size: 23px;
+        font-weight: 900px;
+    }
+    hr{
+        background-color: rgb(255, 255, 255);
+        color: white;
+        height: 7px;
+    }
+    .main4{
+        margin-top: 200px;
+        color: bisque;
+        margin-left: 150px;
+        height: 350px;
+    }
+    
+    .a6{
+        font-size: 50px;
+    }
+    .a7{
+        font-size: 25px;
+    }
+    .main{
+        display: flex;
+        color: white;
+    }
+    .main5{
+     margin-top: 100px;
+     margin-left: 50px;
+    }
+    .main6{
+        margin-top: 80px;
+        margin-left: 120px;
+        height: 450px;
+    }
+    .a8{
+        font-size: 50px;
+        margin-top: 120px;
+    }
+    .a9{
+        font-size: 25px;
+    }
+    .main8{
+        color: aliceblue;
+        margin-top: 100px;
+        margin-left: 200px;
+        height: 300px;
+    }
+    .a10{
+        font-size: 50px;
+    }
+    .a11{
+        font-size: 25px;
+    }
+    .main9{
+        margin-top: 50px;
+        margin-left: 150px;
+        height: 440px;
+    }
+    .main10{
+        margin-top: 120px;
+        margin-left: 25px;
+    }
+    .a12{
+        font-size: 50px;
+    }
+    .a13{
+        font-size: 25px;
+    }
+    .main11{
+        color: antiquewhite;
+    }
+    .main12{
+        margin-top: 75px;
+        font-size: 50px;
+        margin-left: 335px;
+    }
+    .main13{
+        font-size: 25px;
+        margin-left:210px;
+    }
+    .a14{
+    background-color: rgb(61, 59, 59);
+    width: 850px;
+    height: 50px;
+    padding-top:  20px;
+    padding-left: 20px;
+    }
+    .a14:hover{
+        background-color: rgb(131, 118, 118);
+        transform: scale(1.0);
+        
+    }
+    
+    .abc{
+        padding-left: 605px;
+        position: absolute;
+    }
+    .cde{
+        padding-left: 520px;
+    }
+    .efg{
+        padding-left: 565px;
+    }
+    .ghi{
+        padding-left: 588px;
+    }
+    .ijk{
+        padding-left: 475px;
+        position: absolute;
+    
+        
+    }
+    .klm{
+        padding-left: 525px;
+            position: absolute ;
+    }
+    .a15{
+        text-align: center;
+        font-size: 25px;
+    }
+    .a16{
+        margin-left: 300px;
+    }
+    .main14{
+        color: antiquewhite;
+    }
+    .main20{
+        color: antiquewhite;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        padding-left: 200px;
+        line-height: 20px;
+        
+        
+    }
+    footer{
+        text-decoration: none;
+    
+    }
+    .main14{
+        margin-top: 75px;
+        padding-left: 200px;
+        font-size: 20px;
+    }
+    
+    .a17{
+        margin-right: 50px;
+        background-color: black;
+        color: antiquewhite;
+        border-radius: 5px;
+        padding: 10px;
+        border: 1px solid white;
+    }
+    
+    
